@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @visigithub
-- 👀 I’m interested in solving Python problems and working in cloud environments.
-- 🌱 I’m currently learning and working in Cloud.
-- 
+- 👀 I’m addicted to learning AWS and DevOps.
+- 🌱 My favorite thing is studying and Experimenting with AWS.
+- ✨ I believe in continuous learning.
 
 <!---
 visit GitHub/visit GitHub is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
