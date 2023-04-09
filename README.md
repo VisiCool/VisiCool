@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Vishal aka @visiCool
-- 👀 Alwayes looking out to learn new technolgy.
+- 👀 Alwayes looking out to learn new technology.
 - 🌱 Desire to become DevOps and GitOps.
 - ✨ believe in continuous learning and continouse experimenting.
 
