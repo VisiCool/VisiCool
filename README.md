@@ -1,7 +1,7 @@
-- 👋 Hi, I’m Vishal AKA @visiCool
-- 👀 I’m addicted to learning AWS and DevOps.
-- 🌱 My favorite thing is studying and Experimenting with AWS.
-- ✨ I believe in continuous learning.
+- 👋 Hi, I’m Vishal aka @visiCool
+- 👀 Alwayes looking out to learn new technolgy.
+- 🌱 Desire to become DevOps and GitOps.
+- ✨ believe in continuous learning and continouse experimenting.
 
 <!---
 visit GitHub/visit GitHub is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
