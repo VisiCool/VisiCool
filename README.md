@@ -2,7 +2,7 @@
 
 ## About Me
 
-Hi, I'm Vishal! I’m passionate about *cloud technologies* and *DevOps practices. I enjoy working with **AWS* and *Kubernetes, and I'm currently focusing on expanding my skills in **FastAPI* and *Python*.
+Hi, I'm Vishal! I’m passionate about *cloud technologies* and *DevOps* practices. I enjoy working with *AWS* and *Kubernetes*, and I'm currently focusing on expanding my skills in *FastAPI* and *Python*.
 
 ## What I’m Working On
 
@@ -23,7 +23,7 @@ Hi, I'm Vishal! I’m passionate about *cloud technologies* and *DevOps practice
 
 ## Current Goals
 
-- *Expanding Knowledge:* Currently learning *CloudFormation, enhancing my expertise in **Kubernetes, and deepening my skills in **Python* and *FastAPI*.
+- *Expanding Knowledge:* Currently learning *CloudFormation*, enhancing my expertise in *Kubernetes*, and deepening my skills in *Python* and *FastAPI*.
 - *Innovative Solutions:* Exploring new ways to enhance cloud and automation technologies.
 
 ## Get In Touch
