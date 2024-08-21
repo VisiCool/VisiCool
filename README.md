@@ -12,8 +12,8 @@ Hi, I'm Vishal! I’m passionate about *cloud technologies* and *DevOps practice
 
 ## Technologies & Tools
 
-- *Cloud Platforms:* AWS (EC2, Lambda, S3, RDS, etc.)
-- *DevOps Tools:* Terraform, Jenkins, Docker, Rancher, ArgoCD
+- *Cloud Platforms:* AWS
+- *DevOps Tools:* Terraform, Jenkins, Docker, ArgoCD, Kubernetes
 - *Programming Languages:* Python, Bash
 
 ## Certifications
